@@ -14,8 +14,8 @@
 
 }
 .solar{
-    width: 530px;
-    height: 44px;
+    width: 46%;
+    height:8%;
     background-color: aliceblue;
     margin: auto;
     text-align: center;
@@ -130,3 +130,485 @@ textarea{
     
     resize: none;
 }
+
+
+@media only screen and (max-width:1584px)
+{
+
+
+
+    .solar{
+        width: 100%;
+        height:8%;
+        background-color: aliceblue;
+        margin: auto;
+        text-align: center;
+        border-radius: 3px;
+       margin-bottom: 2px;
+    }
+    
+    .screen{
+        background-color: aqua;
+        width: 98%;
+        height: 15%;
+        border-radius: 14px;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .buttons{
+        width: 97%;
+        height: 67%;
+            background-color: blueviolet;
+            display: flex;
+            
+        justify-content: space-between;       
+        
+        border: 2px solid purple; 
+        border-radius: 23px;  
+        
+        margin-bottom: 3px;
+        
+    
+        }
+
+
+
+
+
+
+
+
+
+        .all1{
+            width: 100%;
+            height: 25%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+              margin-top: 10px;
+        
+                
+            
+        }
+        
+        .all2{
+            width: 100%;
+            height: 25%;   
+             justify-content: space-between;
+           
+              font-size: 2em;
+              margin-top: 10px;
+            
+            
+        }
+        .all3{
+        
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        .all4{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        .all5{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        #root{
+            width: 100%;
+        }
+        
+        
+        #point{
+        
+            font-size: 3em;
+        }
+        .all6{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+              
+            
+            
+        }
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width:702px)
+{
+
+
+
+    .container{
+
+        width: 90%;
+        height: 656px;
+        background-color: black;
+        margin: auto;
+        border: 2px solid black;
+        border-radius: 10px;
+    
+    }
+
+
+
+    .solar{
+        width: 100%;
+        height:8%;
+        background-color: aliceblue;
+        margin: auto;
+        text-align: center;
+        border-radius: 3px;
+       margin-bottom: 2px;
+    }
+    
+    .screen{
+        background-color: aqua;
+        width: 98%;
+        height: 15%;
+        border-radius: 14px;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .buttons{
+        width: 97%;
+        height: 67%;
+            background-color: blueviolet;
+            display: flex;
+            
+        justify-content: space-between;       
+        
+        border: 2px solid purple; 
+        border-radius: 23px;  
+        
+        margin-bottom: 3px;
+        
+    
+        }
+
+
+
+
+
+
+
+
+
+        .all1{
+            width: 100%;
+            height: 25%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+              margin-top: 10px;
+        
+                
+            
+        }
+        
+        .all2{
+            width: 100%;
+            height: 25%;   
+             justify-content: space-between;
+           
+              font-size: 2em;
+              margin-top: 10px;
+            
+            
+        }
+        .all3{
+        
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        .all4{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        .all5{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        #root{
+            width: 100%;
+        }
+        
+        
+        #point{
+        
+            font-size: 3em;
+        }
+        .all6{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+              
+            
+            
+        }
+
+
+
+
+    }
+
+
+
+
+
+    @media only screen and (max-width:449px)
+{
+
+
+
+    .container{
+
+        width: 95%;
+        height: 656px;
+        background-color: black;
+        margin: auto;
+        border: 2px solid black;
+        border-radius: 10px;
+    
+    }
+
+
+
+    .solar{
+        width: 100%;
+        height:13%;
+        background-color: aliceblue;
+        margin: auto;
+        text-align: center;
+        border-radius: 3px;
+       margin-bottom: 2px;
+    }
+    
+    .screen{
+        background-color: aqua;
+        width: 98%;
+        height: 15%;
+        border-radius: 14px;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .buttons{
+        width: 97%;
+        height: 67%;
+            background-color: blueviolet;
+            display: flex;
+            
+        justify-content: space-between;       
+        
+        border: 2px solid purple; 
+        border-radius: 23px;  
+        
+        margin-bottom: 3px;
+        
+    
+        }
+
+
+
+
+
+
+
+
+
+        .all1{
+            width: 100%;
+            height: 25%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+              margin-top: 10px;
+        
+                
+            
+        }
+        
+        .all2{
+            width: 100%;
+            height: 25%;   
+             justify-content: space-between;
+           
+              font-size: 2em;
+              margin-top: 10px;
+            
+            
+        }
+        .all3{
+        
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        .all4{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        .all5{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+            
+            
+        }
+        
+        #root{
+            width: 100%;
+        }
+        
+        
+        #point{
+        
+            font-size: 3em;
+        }
+        .all6{
+            height: 25%;
+            margin-top: 10px;
+            width: 100%;
+            justify-content: space-between;
+           
+              font-size: 2em;
+              
+            
+            
+        }
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
