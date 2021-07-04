@@ -1,0 +1,132 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+
+    width: 50%;
+    height: 600px;
+    background-color: black;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.solar{
+    width: 530px;
+    height: 44px;
+    background-color: aliceblue;
+    margin: auto;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.screen{
+    background-color: aqua;
+    width: 99%;
+    height: 20%;
+    border-radius: 44px;
+
+}
+.buttons{
+    width: 98%;
+    height: 67%;
+        background-color: blueviolet;
+        display: flex;
+        
+    justify-content: space-between;       
+    order: 5;
+    border: 2px solid purple; 
+    border-radius: 13px;  
+    padding: 4px;
+    margin-bottom: 3px;
+
+    }
+
+.all1{
+    width: 200%;
+    height: 25%;
+    justify-content: space-between;
+   
+      font-size: 2em;
+      margin-top: 10px;
+
+        
+    
+}
+
+.all2{
+    width: 200%;
+    height: 25%;   
+     justify-content: space-between;
+   
+      font-size: 2em;
+      margin-top: 10px;
+    
+    
+}
+.all3{
+
+    height: 25%;
+    margin-top: 10px;
+    width: 200%;
+    justify-content: space-between;
+   
+      font-size: 2em;
+    
+    
+}
+
+.all4{
+    height: 25%;
+    margin-top: 10px;
+    width: 200%;
+    justify-content: space-between;
+   
+      font-size: 2em;
+    
+    
+}
+
+.all5{
+    height: 25%;
+    margin-top: 10px;
+    width: 200%;
+    justify-content: space-between;
+   
+      font-size: 2em;
+    
+    
+}
+
+#root{
+    width: 100%;
+}
+
+
+#point{
+
+    font-size: 3em;
+}
+.all6{
+    height: 25%;
+    margin-top: 10px;
+    width: 100%;
+    justify-content: space-between;
+   
+      font-size: 2em;
+      
+    
+    
+}
+
+
+textarea{
+   
+    font-size: 40px;
+    padding: 4px;
+    text-align: center;
+    
+    resize: none;
+}
