@@ -132,6 +132,12 @@ textarea{
 }
 
 
+button{
+    border-radius: 12px;
+}
+
+
+
 @media only screen and (max-width:1584px)
 {
 
@@ -275,7 +281,9 @@ textarea{
 
 
 
-
+button{
+    border-radius: 13px;
+}
 
 
 }
@@ -432,6 +440,12 @@ textarea{
               
             
             
+        }
+
+        button{
+            border-radius: 14px;
+
+            margin: 3px;
         }
 
 
@@ -594,6 +608,12 @@ textarea{
               
             
             
+        }
+        
+        button{
+            border-radius: 14px;
+
+            margin: 3px;
         }
 
 
